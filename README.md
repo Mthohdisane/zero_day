@@ -7,7 +7,7 @@
 >1. Read the code and see how it may impact you, and
 >2. changes can be made by any software engineer
 >3. suggestions for future development are welcomed from all
->4. changes will be by approval of *code owners
+>4. changes will be by approval of **code owners**
 >
 >I am looking forward to work with you as i advance my coding skills
 >
